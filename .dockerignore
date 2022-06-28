@@ -1,0 +1,9 @@
+.git/
+.idea/
+.vscode/
+__pycache__/
+Testing_Folder/
+LICENSE
+README.md
+test.csv
+
