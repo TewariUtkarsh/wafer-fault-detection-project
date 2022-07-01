@@ -133,3 +133,4 @@ dmypy.json
 .vscode/
 Testing_Folder/
 test.csv
+.idea/
